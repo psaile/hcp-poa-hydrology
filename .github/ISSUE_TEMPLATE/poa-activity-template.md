@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+**Output**: GH-
+
 ## Responsibility
 
 ## Contributors
