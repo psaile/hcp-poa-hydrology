@@ -15,4 +15,4 @@ The PoA is regularly reviewed and updated by the WMO [Hydrological Coordination 
 This repository is based on the online version of the [WMO Plan of Action for Hydrology 2022-2030](https://www.hydroref.com/wmo/hcp/index.php).
 It contains all PoA outputs, activities and milestones as a hierarchically ordered nested list of issues.
 
-The (Project Board)[https://github.com/users/psaile/projects/1] offers an overview of the activities, milestones and level of implementation. 
+The [Project Board](https://github.com/users/psaile/projects/1) offers an overview of the activities, milestones and level of implementation. 
