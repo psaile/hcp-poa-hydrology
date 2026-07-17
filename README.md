@@ -10,7 +10,7 @@ The [WMO Plan of Action for Hydrology 2022-2030](https://www.hydroref.com/wmo/hc
 7. [Sustainable development is supported by information covering the full hydrological cycle](https://wmo.int/sustainable-development-supported-hydrological-information)
 8. [Water quality is known](https://wmo.int/water-quality-known)
 
-The PoA is regularly reviewed and updated by the WMO [Hydrological Coordination Panel](https://community.wmo.int/en/governance/executive-council/executive-council/hydrological-coordination-panel) and its implementation supported by the WMO Secretariat, the WMO Technical Commissions and their relevant Standing Committees, Expert and Task Teams as well as the WMO Regional Associations.
+The PoA is regularly reviewed and updated by the WMO [Hydrological Coordination Panel](https://community.wmo.int/site/knowledge-hub/governance/executive-council/hydrological-coordination-panel) and its implementation supported by the WMO Secretariat, the WMO Technical Commissions and their relevant Standing Committees, Expert and Task Teams as well as the WMO Regional Associations.
 
 This repository is based on the online version of the [WMO Plan of Action for Hydrology 2022-2030](https://www.hydroref.com/wmo/hcp/index.php).
 It contains all PoA outputs, activities and milestones as a hierarchically ordered nested list of issues.
