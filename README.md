@@ -1,4 +1,5 @@
-#  ![World Meteorological Organization](https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/World_Meteorological_Organization_Logo.svg/320px-World_Meteorological_Organization_Logo.svg.png) WMO Plan of Action for Hydrology 2022-2030 (PoA)
+
+# <img src="https://community.wmo.int/themes/custom/server_theme/dist/images/logo_microsite_en.svg" width="50" /> World Meteorological Organization WMO Plan of Action for Hydrology 2022-2030 (PoA)
 
 The [WMO Plan of Action for Hydrology 2022-2030](https://www.hydroref.com/wmo/hcp/index.php) support the implementation of the [**WMO Vision and Strategy on Hydrology**](https://wmo.int/topics/water/wmo-vision-and-strategy-hydrology) and its eight Long-term Ambitions for Water:
 1. [No one is surprised by a flood](https://wmo.int/no-one-surprised-flood)
